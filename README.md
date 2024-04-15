@@ -1,3 +1,7 @@
+<h2 align="center">Hi 👋, I'm Mateus Ribeiro</h1>
+<h3 align="center">A passionate backend developer from Brazil</h3>
+<br/>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MateusRb&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
   <!-- <img height="180em" src="https://github-readme-stats-mateus-ribeiros-projects-78ceac28.vercel.app/api?username=MateusRb&show_icons=true&theme=dark&count_private=true"/> -->
