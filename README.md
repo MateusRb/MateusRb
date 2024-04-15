@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/MateusRb">
-  <img height="180em" src="https://github-readme-stats-mateus-ribeiros-projects-78ceac28.vercel.app/api?username=MateusRb&show_icons=true&theme=dark&&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-mateus-ribeiros-projects-78ceac28.vercel.app/api?username=MateusRb&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-mateus-ribeiros-projects-78ceac28.vercel.app/api/top-langs/?username=MateusRb&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
