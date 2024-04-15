@@ -1,8 +1,7 @@
-
 <div align="center">
-  <a href="https://github.com/MateusRb">
-  <img height="180em" src="https://github-readme-stats-mateus-ribeiros-projects-78ceac28.vercel.app/api?username=MateusRb&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-mateus-ribeiros-projects-78ceac28.vercel.app/api/top-langs/?username=MateusRb&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=MateusRb&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  <!-- <img height="180em" src="https://github-readme-stats-mateus-ribeiros-projects-78ceac28.vercel.app/api?username=MateusRb&show_icons=true&theme=dark&count_private=true"/> -->
+  <img height="195em" src="https://github-readme-stats-mateus-ribeiros-projects-78ceac28.vercel.app/api/top-langs/?username=MateusRb&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
   
 <div align="center"><br>
