@@ -34,15 +34,6 @@ const mateus = {
 
 ---
 
-### 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MateusRb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateusRb&theme=tokyonight" alt="GitHub Activity" />
-</div>
-
----
-
 ### 💻 Tech Stack
 
 #### **Languages**
